@@ -44,4 +44,4 @@ The model achieves a good level of accuracy in predicting the next word in a seq
 - Pandas
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: https://github.com/0XSoumya/word-predictor.git
